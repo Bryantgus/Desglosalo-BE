@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Desglosalo.Api/Desglosalo.Api.csproj" />
+    <Project Path="src/Desglosalo.Application/Desglosalo.Application.csproj" />
+    <Project Path="src/Desglosalo.Domain/Desglosalo.Domain.csproj" />
+    <Project Path="src/Desglosalo.Infrastructure/Desglosalo.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Desglosalo.UnitTests/Desglosalo.UnitTests.csproj" />
+  </Folder>
+</Solution>
